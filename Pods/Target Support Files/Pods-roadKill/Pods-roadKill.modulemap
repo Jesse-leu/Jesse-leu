@@ -1,0 +1,6 @@
+framework module Pods_roadKill {
+  umbrella header "Pods-roadKill-umbrella.h"
+
+  export *
+  module * { export * }
+}
